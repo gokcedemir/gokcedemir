@@ -1,8 +1,6 @@
-### Hi there 👋
-## I'm Gokce :)
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gokcedemir&show_icons=true">
 
+# Hi there 👋 I'm Gokce :)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokcedemir" alt="gokcedemir" /> </p>
 
 [![](https://img.shields.io/twitter/follow/kafayakoydum?style=social)](https://www.twitter.com/kafayakoydum)
