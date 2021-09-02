@@ -1,4 +1,18 @@
 ### Hi there 👋
+## I'm Gokce :)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gokcedemir&show_icons=true">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokcedemir" alt="gokcedemir" /> </p>
+
+[![](https://img.shields.io/twitter/follow/kafayakoydum?style=social)](https://www.twitter.com/kafayakoydum)
+[![](https://img.shields.io/github/followers/gokcedemir?style=social)](https://www.github.com/gokcedemir)
+
+
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/kafayakoydum)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokcedemir/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://www.mshowto.org/author/gokcedemir)
+
 
 <!--
 **gokcedemir/gokcedemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
