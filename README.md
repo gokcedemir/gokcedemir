@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokce-demir-b8563210a/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/gokcedemirdurkut)
+<br>[![Profile Views](https://komarev.com/ghpvc/?username=gokcedemir&color=blueviolet&style=flat)](https://github.com/gokcedemir)
+
 
 </div>
 
